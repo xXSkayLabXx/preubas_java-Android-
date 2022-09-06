@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">parametros</string>
+    <string name="nombre1">Nombre</string>
+    <string name="nombre2">Nombre</string>
+    <string name="bt1">Registrar</string>
+    <string name="bt2">Regresar</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">spiner</string>
+    <string name="txt_v1">valor 1</string>
+    <string name="txt_v2">valor 2</string>
+    <string name="button">calcular</string>
+    <string name="textView">resultado</string>
+</resources>

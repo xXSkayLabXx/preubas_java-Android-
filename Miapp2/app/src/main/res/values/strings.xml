@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Miapp2</string>
+    <string name="txt_view_status">estado del alumno</string>
+    <string name="txt_mat">Matematicas</string>
+    <string name="txt_fis">Fisica</string>
+    <string name="txt_qui">Quimica</string>
+    <string name="button">Calcular</string>
+</resources>
